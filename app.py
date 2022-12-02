@@ -1,6 +1,8 @@
 from modules.biudzetas import Biudzetas
 import django
 
+print("Donato programa")
+
 biudzetas = Biudzetas()
 
 while True:
